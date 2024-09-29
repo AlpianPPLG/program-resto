@@ -1,0 +1,14 @@
+Menu: 1. Gado-gado - Rp.15000
+Jumlah: 1
+Total: Rp.15000
+Bayar: Rp.20000000
+Kembalian: Rp.19985000
+-------------------------------
+Menu: 1. Gado-gado - Rp.15000
+Jumlah: 2
+Total Sebelum Diskon: Rp.30000.0
+Diskon: Rp.0.0
+Total Setelah Diskon: Rp.30000.0
+Bayar: Rp.50000000
+Kembalian: Rp.49970000
+-------------------------------
